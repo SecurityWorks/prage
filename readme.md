@@ -1,10 +1,4 @@
 
-
-
-
-![pepe1](https://github.com/user-attachments/assets/09a292b1-c309-4578-ac26-c5b9b567e254)
-
-
 # 🔐 Prage - Minimal Age-Compatible File Encryption with a Password
 
 **Prage** (short for **Password Rage**) is a streamlined Rust CLI tool that performs secure file encryption and decryption using a passphrase — fully compatible with the `rage` tool and [age-encryption.org/v1](https://age-encryption.org/v1) format.
@@ -97,3 +91,17 @@ You may choose either license. See the `LICENSE-*` files for details.
 This project was created by AI with a passion for teaching and strong encryption. If you enjoy it, feel free to share, adapt, or build on it!
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+![zz1](https://github.com/user-attachments/assets/479b92d2-48e0-41f8-b2b8-ea5a9bd18149)
+
+
